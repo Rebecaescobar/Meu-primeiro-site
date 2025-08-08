@@ -75,7 +75,7 @@ li {
 }
 
 li:hover {
-  background-color: aqua;
+  background-color: rgb(164, 30, 182);
   transform: translateX(5xp);
   transition: all 0.3s ease;
 }
